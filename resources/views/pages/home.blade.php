@@ -7,11 +7,11 @@
             <h1>
             LEGO x Michelin
             </h1>
-            <h2> Chaussettes Bumpers </h2>
+            <h2> Chaussettes Bumper </h2>
         </div>
         <div class="intro">
             <h3> L'innovation qui change tout ! </h3>
-            <p> LEGO et Michelin s’associent pour une innovation aussi maligne que durable : les chaussettes Bumpers, fabriquées à partir de pneus Michelin recyclés. Conçues pour absorber les chocs, y compris le plus redouté de tous : marcher sur une brique LEGO.</p>
+            <p> LEGO et Michelin s’associent pour une innovation aussi maligne que durable : les chaussettes Bumper, fabriquées à partir de pneus Michelin recyclés. Conçues pour absorber les chocs, y compris le plus redouté de tous : marcher sur une brique LEGO.</p>
         </div>
         <div class="stats">
             <div class="stat-item">
@@ -28,7 +28,7 @@
             </div>
         </div>
         <div>
-            <h3 class="presentation_title"> Pourquoi choisir BUMPERS ? </h3>
+            <h3 class="presentation_title"> Pourquoi choisir BUMPER ? </h3>
             <div class="presentation">
                 <span class="iconify icon" data-icon="mdi:recycle" data-width="24"></span>
                 <div class="text_presentation">

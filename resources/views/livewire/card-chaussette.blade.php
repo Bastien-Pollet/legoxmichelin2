@@ -1,6 +1,6 @@
 <div class="container_votes">
     @auth
-        <a class="lien_add_chaussette" href="/add-socks">Toi aussi créer ta chaussette !</a>
+        <a class="lien_add_chaussette" href="/add-socks">Toi aussi crée ta chaussette !</a>
     @else
         <a class="lien_add_chaussette" href="{{route('login')}}">Connecte toi pour créer ta chaussette !</a>
     @endauth
